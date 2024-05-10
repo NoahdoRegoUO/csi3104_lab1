@@ -1,6 +1,11 @@
 # CSI3104 Lab 1
 
-This lab details how to use Git and create repos
+The purpose of this lab is to understand and practice version control with Git and Github, through a series of exercises.
+
+# Collaborators
+
+- Noah do Rego
+- Jason Phung
 
 # License
 
