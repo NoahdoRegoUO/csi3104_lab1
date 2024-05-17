@@ -13,6 +13,8 @@
 - Noah do Rego
 - Jason Phung
 
+*Part 2 was completed on Noah's repo
+
 # License
 
 A short snippet describing the license (MIT, Apache, etc.)
