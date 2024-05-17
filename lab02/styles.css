@@ -10,8 +10,10 @@ h1 {
   margin-bottom: 10px;
 }
 
-h2 {
+h2,
+h3 {
   margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 li {
