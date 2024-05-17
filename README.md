@@ -1,4 +1,4 @@
-# CSI3104 Labs
+# CSI3140 Labs
 
 ### Lab 1:
 
