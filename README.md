@@ -10,10 +10,10 @@
 
 # Collaborators
 
-- Noah do Rego
-- Jason Phung
+- Noah do Rego (Lab 1-2)
+- Jason Phung (Lab 1)
 
-*Part 2 was completed on Noah's repo
+\*Part 2 was completed on Noah's repo
 
 # License
 
