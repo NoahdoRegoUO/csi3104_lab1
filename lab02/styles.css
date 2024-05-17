@@ -1,6 +1,7 @@
 /* Element styles */
 
-header {
+header,
+footer {
   text-align: center;
 }
 
@@ -13,6 +14,10 @@ h2 {
   margin-left: 10px;
 }
 
+li {
+  padding-bottom: 5px;
+}
+
 /* Class styles */
 
 .details {
@@ -22,7 +27,10 @@ h2 {
 
 .info-container {
   display: flex;
-  padding: 15px;
+  justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
 }
 
 .info-section {
