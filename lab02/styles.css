@@ -1,0 +1,17 @@
+/* Element styles */
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* Class styles */
+
+.details {
+  font-style: italic;
+  margin-bottom: 5px;
+}
