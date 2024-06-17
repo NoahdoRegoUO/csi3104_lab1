@@ -1,0 +1,14 @@
+p {
+  font-size: xx-large;
+}
+
+.dicebox {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+body {
+  background-color: #344f73;
+  color: white;
+}
